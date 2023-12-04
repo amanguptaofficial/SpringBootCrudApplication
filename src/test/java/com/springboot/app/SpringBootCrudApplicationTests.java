@@ -8,9 +8,6 @@ class SpringBootCrudApplicationTests {
 
 	@Test
 	void contextLoads() {
-		//remove
 	}
 
 }
-//comment1
-// this is testing comment
